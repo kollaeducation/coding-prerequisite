@@ -20,6 +20,8 @@
 <img src="https://i1.wp.com/bukugue.com/wp-content/uploads/2017/02/cara-buat-email-baru-google-gmail-4.jpg?resize=800%2C504&ssl=1">
 5. Selesai.
 
+* [Video Tutorial Membuat Akun Google](https://www.youtube.com/embed/EetI97iG2fU)
+
 ---
 
 | [Beranda][0] | [Instalasi Sublime][1] | [Show Extension File][2] | [Create Google Account][3] 
