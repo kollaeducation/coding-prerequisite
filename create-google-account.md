@@ -7,7 +7,7 @@
 
 ### CREATE GOOGLE ACCOUNT
 
-1. Kunjungi laman pembuatan akun Gmail dengan cara klik <a href="https://accounts.google.com/signup?hl=in">DISINI</a>.
+1. Kunjungi laman pembuatan akun Gmail dengan cara klik [DISINI](https://accounts.google.com/signup?hl=in).
 
 2. Selanjutnya akan tampil halaman pendaftaran. Isi form pendaftaran seperti pada gambar di bawah ini.
 
@@ -20,7 +20,9 @@
 <img src="https://i1.wp.com/bukugue.com/wp-content/uploads/2017/02/cara-buat-email-baru-google-gmail-4.jpg?resize=800%2C504&ssl=1">
 5. Selesai.
 
-* [Video Tutorial Membuat Akun Google](https://www.youtube.com/embed/EetI97iG2fU)
+
+
+[Video Tutorial Membuat Akun Google](https://www.youtube.com/embed/EetI97iG2fU)
 
 ---
 

@@ -11,7 +11,7 @@
 
 ### Langkah Instalasi Sublime Dengan Sistem Operasi Windows
 
-1. Download aplikasi sublime text di situs resminya <a href="https://www.sublimetext.com/3">DISINI</a>.
+1. Download aplikasi sublime text di situs resminya [DISINI](https://www.sublimetext.com/3).
 2. Jika proses download sudah selesai. Buka folder Downloads dan cari installer sublime.
 3. Klik dua kali installer sublime.
 4. Setelah itu akan tampak Setup Window seperti pada gambar di bawah ini.
@@ -29,7 +29,7 @@
 
 ### Langkah Instalasi Dengan Sistem Operasi Mac
 
-1. Download aplikasi sublime text di situs resminya <a href="https://www.sublimetext.com/3">DISINI</a>.
+1. Download aplikasi sublime text di situs resminya [DISINI](https://www.sublimetext.com/3).
 2. Jika proses download sudah selesai. Buka folder Downloads dan cari installer sublime.
 3. Klik dua kali installer sublime.
 4. Setelah itu akan tampak proses instalasi pada gambar di bawah ini.
