@@ -16,6 +16,11 @@
 
 ---
 
+### VIDEO TUTORIAL
+
+[Video Tutorial](https://www.youtube.com/embed/wxIIskKmUQA)
+---
+
 | [Beranda][0] | [Instalasi Sublime][1] | [Show Extension File][2] | [Create Google Account][3] 
 |:---------:|:--------------:|:--------------:|:--------------:|
 
