@@ -7,10 +7,6 @@
 
 ### CREATE GOOGLE ACCOUNT
 
----
-
-### Langkah Membuat Akun Google
-
 1. Kunjungi laman pembuatan akun Gmail dengan cara klik <a href="https://accounts.google.com/signup?hl=in">DISINI</a>.
 
 2. Selanjutnya akan tampil halaman pendaftaran. Isi form pendaftaran seperti pada gambar di bawah ini.
